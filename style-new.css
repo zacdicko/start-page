@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+
+body {
+    background-color: #191919;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Roboto', sans-serif;
+}
+
+h6 {
+    font-family: 'Input Mono Compressed', sans-serif;
+    padding-bottom: 4px;
+    padding-top: 16px;
+
+}
+
+a {
+    margin: auto;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+a:hover {
+    color:#bbff00;
+}
+
+.tcontent {
+   
+}
+
+img {
+    margin-top: 20px;
+    height: 150px;
+}
+.table1 {
+    margin-left: 40px;
+    clear: left;
+}
+.table1 a {
+    float: left;
+    clear: left;
+}
+.table2 {
+    margin-left: 40px;
+    clear: left;
+}
+.table2 a {
+    float: left;
+    clear: left;
+}
+.table3 {
+    margin-left: 40px;
+    clear: left;
+}
+.table3 a {
+    float: left;
+    clear: left;
+}
+.table4 {
+    margin-left: 40px;
+    clear: left;
+}
+.table4 a {
+    float: left;
+    clear: left;
+}
+
+.container {
+    margin-top: 20px;
+  }
